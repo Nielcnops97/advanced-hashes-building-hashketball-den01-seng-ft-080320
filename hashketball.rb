@@ -59,7 +59,7 @@ def game_hash
         }
       ]
     },
-    
+  end
     away: {
       team_name: "Charlotte Hornets",
       colors: ["Turquoise", "Purple"],
