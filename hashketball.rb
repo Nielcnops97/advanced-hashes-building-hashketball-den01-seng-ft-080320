@@ -58,7 +58,6 @@ def game_hash
           slam_dunks: 1
         }
       ]
-    },
   end
     away: {
       team_name: "Charlotte Hornets",
